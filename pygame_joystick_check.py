@@ -1,4 +1,8 @@
-# https://www.oki-lab.net/entry/post-687
+# pygame_joystick_check.py
+#
+# Reference
+# 1. https://www.oki-lab.net/entry/post-687
+#
 
 import pygame
 from pygame.locals import *
